@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/lesson1/CSVFiles/build/
+/lesson1/CSVFiles/out/
+/lesson1/CSVFiles/out/production/classes/
